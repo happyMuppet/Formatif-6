@@ -1,0 +1,73 @@
+
+#desProduit{
+    color: blue;
+    font-family: verdana;
+    font-size: 125%;
+    background: lightblue;
+    padding: 10px;
+}
+
+.divFormulaire {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+fieldset {
+    padding: 10px;
+    background: lightblue;
+}
+
+legend {
+    padding: 3px;
+    font-variant: small-caps;
+    color: blue;
+    font-family: verdana;
+}
+
+label {
+    width: 135px;
+    display: inline-block;
+    vertical-align: center;
+}
+
+input:focus {
+    background: #eaeaea;
+}
+
+input:invalid {
+    background: lightpink;
+}
+
+input:required {
+   border-color: lightpink;
+}
+
+input {
+    width: 250px;
+    height: 30px;
+    border-radius: 10px;
+    border-color: lightblue;
+    padding: 5px;
+}
+
+textarea {
+    height: 100px;
+    width: 250px;
+}
+
+input[type=submit], input[type=button], input[type=reset] {
+    border-radius: 50px 20px;
+}
+
+select {
+    width: 254px;
+}
+
+input[type=checkbox] {
+    width: 10px;
+}
+
+label {
+    font-style: normal;
+    font-family: verdana;
+}

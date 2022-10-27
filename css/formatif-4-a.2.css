@@ -1,0 +1,32 @@
+
+body{
+    font-family: "Book Antiqua";
+    font-size: 20px;
+    color : darkslategray;
+}
+
+table{
+    table-layout: auto;
+    width: 450px;
+    height: 100px;
+}
+
+div{
+    padding: 20px;
+}
+
+tr{
+    height: 50px;
+}
+
+input{
+    font-family: "Book Antiqua";
+    font-size: 20px;
+    color : orange;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.colCenter{
+   text-align: center;
+}
